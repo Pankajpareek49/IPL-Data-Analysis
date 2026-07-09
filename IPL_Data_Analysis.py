@@ -106,9 +106,10 @@ plt.title("Most Win By An Team")
 plt.bar(win_match.index, win_match.values)
 plt.xlabel("Team Name")
 plt.ylabel("Number Of Wins")
-plt.savefig("graphs/Team_wins.png", dpi=300, bbox_inches="tight")
 plt.xticks(rotation=45)
 plt.tight_layout()
+plt.savefig("graphs/Team_wins.png", dpi=300, bbox_inches="tight")
+
 plt.show()
 
 #toss winner analysis
