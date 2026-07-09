@@ -41,18 +41,51 @@ This project analyzes IPL datasets (`matches.csv` and `deliveries.csv`) to disco
 
 ## 📈 Visualizations
 
-The project includes graphs for:
+### 🏏 Top Run Scorers
 
-- Top Run Scorers
-- Top Wicket Takers
-- Most Sixes
-- Dot Ball Bowlers
-- Highest Team Score
-- Team Wins
-- Matches Per Season
-- Player of the Match Winners
+![Top Run Scorers](Top5_batsman.png)
 
 ---
+
+### 🎯 Top Wicket Takers
+
+![Top Wicket Takers](top_wkt_tkr.png)
+
+---
+
+### 💥 Most Sixes
+
+![Most Sixes](Most_sixes.png)
+
+---
+
+### ⚪ Most Dot Ball Bowlers
+
+![Dot Balls](most_dot_balls.png)
+
+---
+
+### 🏆 Highest Team Score
+
+![Highest Team Score](high_score.png)
+
+---
+
+### 🏅 Team Wins
+
+![Team Wins](Team_wins.png)
+
+---
+
+### 📅 Matches Per Season
+
+![Matches Per Season](matches_per_season.png)
+
+---
+
+### ⭐ Player of the Match
+
+![Player of the Match](player_of_match.png)
 
 ## 📁 Project Structure
 
