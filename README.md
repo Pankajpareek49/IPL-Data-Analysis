@@ -31,7 +31,6 @@ This project analyzes IPL datasets (`matches.csv` and `deliveries.csv`) to disco
 - 🎯 Top Wicket Takers
 - 💥 Most Sixes
 - ⚪ Most Dot Ball Bowlers
-- ➕ Most Extras Given
 - 🏆 Highest Team Score
 - 🏅 Player of the Match Analysis
 - 📅 Matches Played Per Season
