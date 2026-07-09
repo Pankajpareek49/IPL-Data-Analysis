@@ -112,7 +112,7 @@ IPL-Data-Analysis/
 1. Clone this repository
 
 ```bash
-git clone https://github.com/your-username/IPL-Data-Analysis.git
+git clone https://github.com/Pankajpareek49/IPL-Data-Analysis.git
 ```
 
 2. Install required libraries
